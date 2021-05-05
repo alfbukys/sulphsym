@@ -1,5 +1,5 @@
 # Simplified kinetic model of the sulphur assimilation pathway in Arabidopsis.
-#### By Alfredas Bukys, 2021
+#### By Alfredas Bukys, Peter Doerner group 2021
 
 ## The code that was used to create the model ensemble is in `Parameterisation_relaxed_fit.py.` 
 This requires the accessory files provided in `Accessory.zip.`
